@@ -1,3 +1,6 @@
+<iframe src="https://giphy.com/embed/ayQ99hp01HFN6" width="480" height="376" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/hd-ayQ99hp01HFN6">via GIPHY</a></p>
+
+
 ### run the following commands
 
 ### this next line removes all the existing global npm packages
