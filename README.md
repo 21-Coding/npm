@@ -27,3 +27,5 @@
 ## `brew install yarn`
 
 ### follow up with: https://yarnpkg.com/en/docs/install
+
+## changing node versions ---> https://www.surrealcms.com/blog/how-to-upgrade-or-downgrade-nodejs-using-npm.html
